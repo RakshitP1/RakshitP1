@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, its Clark ☕
+### Hi there 👋, its Rakshit ☕
 
 <!--
 **grgejw/grgejw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
