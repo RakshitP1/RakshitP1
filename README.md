@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, its Rakshit ☕
+### Hi there 👋, I'm Rakshit ☕
 
 <!--
 **grgejw/grgejw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 - Welcome to my github!
-- 🔭 I’m currently a student at UofT
+- 📚 I hold a BSc in Computer Science with a Minor in Statistics from the University of Toronto
 - 🌱 I’m currently learning about different topics in Software Engineering
 - 💬 Ask me about anything
 - 📫 How to reach me: Feel free to send me a message -- I'm happy to chat!
