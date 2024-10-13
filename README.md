@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm Rakshit ☕
+### Hey there 👋, I'm Rakshit!
 
 <!--
 **grgejw/grgejw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
