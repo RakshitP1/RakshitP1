@@ -34,10 +34,11 @@ Here are some ideas to get you started:
 
 - Welcome to my github!
 - 📚 I hold a BSc in Computer Science with a Minor in Statistics from the University of Toronto
-- 🌱 I’m currently learning about different topics in Software Engineering
+- 🧑‍💻 I’m currently working at PlayStation on the LLVM Compiler Project
 - 💬 Ask me about anything
 - 📫 How to reach me: Feel free to send me a message -- I'm happy to chat!
- 
+
+<!--
 I use:
 
 <p>
@@ -49,3 +50,4 @@ I use:
 </p>
 
 ![Rakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshitP1&show_icons=true&theme=radical)
+-->
